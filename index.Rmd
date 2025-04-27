@@ -6,6 +6,5 @@ documentclass: book
 classoption: openany
 ---
 
-# Textbook content under construction
+# Mini bookdown textbook
 
-Hello, world!!!
