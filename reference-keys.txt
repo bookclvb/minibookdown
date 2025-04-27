@@ -1,2 +1,3 @@
 mini-bookdown-textbook
+stitching-the-pages
 further-resources
