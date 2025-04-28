@@ -4,7 +4,8 @@ author: "Emily Coxe"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: openany
+output:
+  bookdown::gitbook: default
 ---
-
-# Mini bookdown textbook
+# This is a test
 
