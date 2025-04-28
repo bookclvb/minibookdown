@@ -6,7 +6,9 @@ documentclass: book
 classoption: openany
 output:
   bookdown::gitbook: default
+description: "An attempt to learn how to use bookdown and Actions"
 ---
+
 Welcome to my book! 
 
 
