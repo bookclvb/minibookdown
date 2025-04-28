@@ -1,1 +1,6 @@
-this-is-a-test
+this-is-a-placeholder-table-of-contents
+i-had-trouble-figuring-out-how-the-bookdown-tool-links-the-files-into-the-toc-unsure-if-these-links-will-actually-work-since-the-pages-arent-showing-up-in-the-sidebar.
+why-coptic-stich
+assembling-and-punching-pages
+stitching
+further-resources
