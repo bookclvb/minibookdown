@@ -1,11 +1,18 @@
 ---
 title: "Coptic Stitch Bookbinding"
-author: "Emily Coxe"
+author: "Emily"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: openany
 output:
   bookdown::gitbook: default
 ---
-# This is a test
+# This is a placeholder table of contents
+
+### I had trouble figuring out how the Bookdown tool links the files into the ToC! Unsure if these links will actually work, since the pages aren't showing up in the sidebar.
+
+# [1: Why Coptic Stich?](01-why-coptic.md)
+# [2: Assembling and Punching Pages](02-assemble-pages.md)
+# [3: Stitching](03-stitching.md)
+# [4: Further Resources](04-resources.md)
 
