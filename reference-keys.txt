@@ -2,3 +2,4 @@ why-coptic-stich
 assembling-and-punching-pages
 stitching-the-book
 further-resources
+why-use-coptic-stitch
